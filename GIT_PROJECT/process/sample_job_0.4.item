@@ -220,6 +220,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="row2" show="false"/>
   </connection>
   <note opaque="false" posX="320" posY="64" sizeHeight="64" sizeWidth="225" text="Sample Job."/>
+  <note opaque="true" posX="256" posY="288" sizeHeight="64" sizeWidth="353" text="Sample Job Part 2."/>
   <subjob>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRowGenerator_1" show="false"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150" show="false"/>
